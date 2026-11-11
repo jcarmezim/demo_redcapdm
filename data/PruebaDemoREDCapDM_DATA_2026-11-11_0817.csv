@@ -1,0 +1,12 @@
+record_id,redcap_event_name,redcap_survey_identifier,d_birth,d_admission,age,sex,weight,demographics_complete,dm,type_dm,copd,comorb___1,comorb___2,comorb___3,comorb___4,comorb___ni,comorb___unk,comorb___asku,comorb___nask,comorb_other,comorbidities_complete,fu_date,fu_status,creatinine,follow_up_complete,satisfaction_timestamp,satisf_score,satisf_comment,satisfaction_complete
+1,basal_arm_1,,1958-03-12,2024-01-15,65,1,82.5,0,1,2,0,1,0,0,0,0,0,0,0,,0,,,,,,,,
+1,seguimiento_arm_1,,,,,,,,,,,,,,,,,,,,,2024-07-15,1,1.1,0,,3,Scissors,2
+2,basal_arm_1,,1971-11-02,2024-02-03,52,NI,UNK,0,0,,1,1,1,0,0,0,0,0,0,,0,,,,,,,,
+2,seguimiento_arm_1,,,,,,,,,,,,,,,,,,,,,2024-08-01,1,NASK,0,,,,0
+3,basal_arm_1,,ASKU,2024-02-20,,2,64,0,1,,UNK,0,0,0,1,0,0,0,0,Asma,0,,,,,,,,
+3,seguimiento_arm_1,,,,,,,,,,,,,,,,,,,,,2024-09-10,2,3.4,0,,,,0
+4,basal_arm_1,,1949-06-30,2024-03-05,74,1,,0,0,,,0,0,0,0,0,0,0,0,,0,,,,,,,,
+5,basal_arm_1,,1985-01-20,2024-03-18,39,2,58,0,1,1,0,0,1,1,0,0,0,0,0,,0,,,,,,,,
+5,seguimiento_arm_1,,,,,,,,,,,,,,,,,,,,,2024-09-18,1,,0,,4,Paper,1
+6,basal_arm_1,,1962-09-09,2024-04-01,61,1,91,0,0,,0,0,0,0,0,1,0,0,0,,0,,,,,,,,
+6,seguimiento_arm_1,,,,,,,,,,,,,,,,,,,,,2024-10-01,1,0.9,0,,,,0

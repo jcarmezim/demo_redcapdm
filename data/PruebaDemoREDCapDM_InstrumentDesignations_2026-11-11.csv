@@ -1,0 +1,5 @@
+arm_num,unique_event_name,form
+1,basal_arm_1,demographics
+1,basal_arm_1,comorbidities
+1,seguimiento_arm_1,follow_up
+1,seguimiento_arm_1,satisfaction
