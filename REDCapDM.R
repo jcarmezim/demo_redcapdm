@@ -1,12 +1,15 @@
 # REDCapDM
 
-# Enlace: 
+# Enlace demo:
+# https://github.com/jcarmezim/demo_redcapdm
+
+# Enlace página paquete: 
 # https://bruigtp.github.io/REDCapDM/
 
 # Instalar el paquete - versión de GitHub
 
-# install.packages("remotes")
-remotes::install_github("bruigtp/REDCapDM")
+# install.packages("pak")
+pak::pak("bruigtp/REDCapDM")
 
 library(REDCapDM)
 
